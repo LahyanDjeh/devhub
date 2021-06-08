@@ -19,7 +19,7 @@
     "json-to-graphql-query": "1.9.0",
     "lodash": "4.17.20",
     "moment": "2.24.0",
-    "polished": "3.4.1",
+    "polished": "3.7.2",
     "qs": "6.9.1"
   },
   "devDependencies": {
